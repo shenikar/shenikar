@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width="600"/>
 </div>
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/ilfar-ishmatov">
+  <a href="https://www.linkedin.com/in/ilfar-ishmatov/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/Whoime116">
