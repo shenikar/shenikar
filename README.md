@@ -10,7 +10,7 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=irc95&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=shenikar&style=flat-square&color=blue" alt=""/>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -44,6 +44,6 @@ I am a beginner Python backend developer from Russia.
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=irc95&theme=neon-dark&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shenikar&theme=neon-dark&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irc95&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shenikar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
