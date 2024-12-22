@@ -33,8 +33,8 @@
 
 ## 📫 Как со мной связаться?
 
-- Email: [ishmatov.ilfar@gmail.com]
-- Telegram: [https://t.me/Whoime116]
+- Email: [ishmatov.ilfar@gmail.com](mailto:ishmatov.ilfar@gmail.com)
+- Telegram: [Whoime116](https://t.me/Whoime116)
 
 ---
 
