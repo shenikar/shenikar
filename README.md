@@ -1,49 +1,57 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width="600"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/ilfar-ishmatov/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://t.me/Whoime116">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-</div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shenikar&style=flat-square&color=blue" alt=""/>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
- :man_technologist: About Me : 
+# 👋 Привет! Меня зовут Ильфар
 
-I am a beginner Python backend developer from Russia.
-
-
-- :zap: In my free time, I solve problems on Codewars and read tech articles.
+Добро пожаловать в мой GitHub! Я начинающий разработчик на Go, увлеченный созданием эффективных и масштабируемых приложений. Здесь вы найдете мои проекты, которые показывают мои навыки и прогресс в изучении технологий.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+## 🚀 Обо мне
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg"  title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"  title="Go" alt="Go" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+- 🌟 **Роль**: Junior Golang разработчик
+- 📍 **Локация**: [Казань]
+- 💻 **Навыки**: Работа с Go, SQL, Docker.
+- 🎯 **Цели**: Стать профессионалом в разработке бэкенда и углубить знания в распределенных системах
 
 ---
 
-### :fire: My Stats :
+## 🛠️ Используемые технологии и инструменты
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shenikar&theme=neon-dark&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shenikar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+## 📈 GitHub Статистика
+
+![GitHub Статистика](https://github-readme-stats.vercel.app/api?username=shenikar&show_icons=true&theme=radical)
+
+![Языки в репозиториях](https://github-readme-stats.vercel.app/api/top-langs/?username=shenikar&layout=compact&theme=radical)
+
+---
+
+## 📫 Как со мной связаться?
+
+- Email: [ishmatov.ilfar@gmail.com]
+- Telegram: [https://t.me/Whoime116]
+
+---
+
+## 🧩 Чем я интересуюсь?
+
+- Разработка бэкенда на Go
+- Интеграция REST и gRPC API
+- Работа с базами данных
+- Использование Docker и CI/CD для автоматизации
+
+---
+
+## 🌱 Последние проекты
+
+- **[Telegram-бот для записи](https://github.com/shenikar/stomatology_bot)**: Бот для стоматологической клиники с использованием Go и pgx.
+- **[Telegram-бот для вычислений MD5 хешей](https://github.com/shenikar/telegram_bot_Go)**: Этот проект представляет собой Telegram-бота, который взаимодействует с базой данных PostgreSQL и RabbitMQ для обработки запросов на вычисление MD5-хэшей.
+
+---
+
+💡 _"Постоянное обучение — ключ к успеху в разработке."_  
